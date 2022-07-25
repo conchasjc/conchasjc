@@ -1,7 +1,6 @@
 <img src="https://github.com/conchasjc/conchasjc/blob/main/Resources/banner-github1.png" />
 
-<H1 align="center">👋 John Carlo Guan Conchas 👋</H1>
-<H5 align="center">Aspiring Full Stack Web Developer</H5> 
+
 
 
 ## About Me
@@ -52,7 +51,8 @@ _Ongoing Development_
 
 Here are some ideas to get you started:
 
-
+<H1 align="center">👋 John Carlo Guan Conchas 👋</H1>
+<H5 align="center">Aspiring Full Stack Web Developer</H5> 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
