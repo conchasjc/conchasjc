@@ -4,7 +4,8 @@
 
 
 ## About Me
-I'm JC, a System Administrator, and aspiring Web Developer. Passionate in learning new languages which will enhance my skills as Full Stack Developer.
+<p>I'm JC, a System Administrator, and aspiring Web Developer. Passionate in learning new languages which will enhance my skills as Full Stack Developer.</p>
+
 - 🔭 I’m currently working on my Web Portfolio
 - 🌱 I’m currently learning React JS and Django Web Framework
 - 📫 How to reach me: jconchas.dev@gmail.com
