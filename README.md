@@ -4,7 +4,7 @@
 
 
 ## About Me
-<p>I'm JC, a System Administrator, and aspiring Web Developer. Passionate in learning new languages which will enhance my skills as Full Stack Developer.</p>
+<p>I'm JC, a Senior System Administrator, Passionate in learning new languages which will enhance my skills as DevOps.</p>
 
 - 🔭 I’m currently working on my Web Portfolio
 - 🌱 I’m currently learning React JS and Django Web Framework
